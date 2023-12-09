@@ -10,7 +10,7 @@ import { BiLeftArrowAlt } from 'react-icons/bi'
 export default function Iblog() {
   return (
     <>
-      <TheHead title="Projects | Andikarna" />
+      <TheHead title="Projects | Muhammad Hilmi" />
       <div className="flex justify-center py-20 px-10  text-dark dark:text-gray-300">
         <div className="w-[200%] sm:w-screen">
           <section className='space-y-5'>
